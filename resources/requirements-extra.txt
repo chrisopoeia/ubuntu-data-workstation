@@ -6,4 +6,9 @@ jupyter # required in addition to ipykernel for extended Jupyter functionality e
 openpyxl
 sphinx
 xsdata # https://xsdata.readthedocs.io/en/latest/
-xsdata-pydantic # https://xsdata-pydantic.readthedocs.io/en/latest/            
+xsdata-pydantic # https://xsdata-pydantic.readthedocs.io/en/latest/      
+
+# build tools - in this order?
+setuptools
+twine
+build

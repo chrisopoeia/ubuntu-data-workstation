@@ -3,3 +3,4 @@ pandas
 pip-audit
 psycopg
 sqlalchemy
+matplotlib
